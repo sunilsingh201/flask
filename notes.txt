@@ -1,0 +1,15 @@
+Rest ful api
+--> Architecteral style of building a api / Method of desinging a api(Http)
+--> ITs Takes a request and deliver a response 
+--> Http method get Post(create) Put(update) delete
+--> Basic atchitecture are resources(operstion) method(post) path(/add)  used for(adding numbers) parameters(x:Datatypes,y:datatypes) on error code(status code 1oo series to 400)
+--> This above is resources chart
+
+def post(self):
+    pass
+def get(self):
+    pass
+def put(self):
+    pass
+def delete(self):
+    pass
